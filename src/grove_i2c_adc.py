@@ -1,7 +1,7 @@
 from Adafruit_I2C import Adafruit_I2C
 import time
  
-ADDR_ADC121 = 0x50
+ADDR_ADC121 = 0x51
  
 REG_ADDR_RESULT = 0x00
 REG_ADDR_ALERT = 0x01
